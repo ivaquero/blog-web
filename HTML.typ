@@ -1,6 +1,6 @@
 #import "lib/scibook.typ": *
 #show: doc => conf(
-  title: "前端笔记",
+  title: "HTML+CSS",
   author: ("ivaquero"),
   footer-cap: "ivaquero",
   header-cap: "笔记杂集",
@@ -47,3 +47,4 @@ img {
 }
 ```
 
+= CSS
